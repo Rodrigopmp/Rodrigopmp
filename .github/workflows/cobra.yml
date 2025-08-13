@@ -1,7 +1,7 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -12,16 +12,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1️⃣ Clonar o repositório
+      # 1️⃣ Clonar o repositório com histórico completo
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       # 2️⃣ Gerar a cobra
       - name: Generate snake animation
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Rodrigopmp
+          github_user_name: Rodrigopmp  
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # 3️⃣ Publicar no branch output
