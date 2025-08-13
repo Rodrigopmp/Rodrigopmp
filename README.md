@@ -1,4 +1,7 @@
-## Olá, sou Rodrigo Pinheiro👋
+<h2 align="center" style="color:#00FF9F; font-family: 'Fira Code', monospace;">
+    Olá, sou Rodrigo Pinheiro 👋
+</h2>
+
 - 🌱 Estudante de Ciência da Computação no IMT
 - 📫 Email de contato: Rodrigopmp2007@gmail.com
 - 😄 Pronouns: Ele/Dele
