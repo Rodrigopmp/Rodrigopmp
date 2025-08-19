@@ -3,7 +3,7 @@
 
 - 🌱 Estudante de Ciência da Computação no IMT
 - 📫 Email de contato: Rodrigopmp2007@gmail.com
-- 🔥 Fun fact: Gaming enthusiast
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
