@@ -1,4 +1,4 @@
-f[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&width=435&lines=Ol%C3%A1%2C+sou+Rodrigo+Pinheiro+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&width=435&lines=Ol%C3%A1%2C+sou+Rodrigo+Pinheiro+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 - 🌱 Estudante de Ciência da Computação no IMT
