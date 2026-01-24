@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&width=435&lines=Ol%C3%A1%2C+sou+Rodrigo+Pinheiro+%F0%9F%91%8B)](https://git.io/typing-svg)
+f[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9F&width=435&lines=Ol%C3%A1%2C+sou+Rodrigo+Pinheiro+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 - 🌱 Estudante de Ciência da Computação no IMT
@@ -30,7 +30,6 @@ Ferramentas que mais utilizo:
 ##
 
 <div> 
-  <a href="https://instagram.com/pinheiro.rodrig0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodrigopmp2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-perri-mendes-pinheiro-885485321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
