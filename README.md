@@ -5,9 +5,6 @@
 - 📫 Email de contato: Rodrigopmp2007@gmail.com
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 Ferramentas que mais utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
